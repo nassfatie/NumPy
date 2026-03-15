@@ -1,5 +1,5 @@
 **What is numpy?**
-Numpy stands for Numerical Python which deals with numerical computing in python.:smiley:
+Numpy stands for Numerical Python which deals with numerical computing in python. :smiley:
 
 NumPy deals with
 * ndarray
